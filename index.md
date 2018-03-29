@@ -8,7 +8,7 @@
 #### 2018.3
 - 《大数据之路：阿里巴巴大数据实践》
 - O'reilly《利用Python进行数据分析》
-- [O'reilly《Hive编程指南》](https://github.com/huamingao/huamingao.github.io/tree/master/readingnotes/Hive%20Programing)
+- [O'reilly《Hive编程指南》](https://github.com/huamingao/huamingao.github.io/blob/master/readingnotes/Hive%20Programing/index.md)
 
 #### 2018.2
 - Ray Dalio 《原则》 
