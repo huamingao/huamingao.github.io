@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+##每月读书记录
 
-You can use the [editor on GitHub](https://github.com/huamingao/huamingao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+> 好书待读
+>- 卡尔 · 波普尔《科学逻辑的发现》
+>- 《思考，快与慢》
+>- 罗斯《公司理财》
+>- 《数据仓库》第四版
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 2018.3
+- 《大数据之路：阿里巴巴大数据实践》
+- O'reilly《利用Python进行数据分析》
+- O'reilly《Hive编程指南》
 
-### Markdown
+#### 2018.2
+- Ray Dalio 《原则》 
+- 萨米尔 · 奥卡莎《牛津通识读本：科学哲学》
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 2018.1
+- 唐朝《手把手教你读财报》
+- Ray Dalio 《经济机器是怎样运行的》视频及论文部分片段
+- 论文：哈耶克《论知识在社会中的应用》
 
-```markdown
-Syntax highlighted code block
+#### 2017.12
+- 秦小明《金融思维训练营》第四期音频
+- 哈耶克《致命的自负》
 
-# Header 1
-## Header 2
-### Header 3
+#### 2017
+- 银行螺丝钉《指数基金投资指南》
+- 徐大为《低风险投资之路》
 
-- Bulleted
-- List
+#### 2016
+- 《Linux鸟哥私房菜》
+- 《跟阿铭学Linux》
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/huamingao/huamingao.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### 2015
+- 李智慧《大型网站技术架构-核心原理与案例分析》
