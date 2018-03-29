@@ -1,1 +1,1 @@
-- [ DatawareHouseDesign](https://huamingao.github.io/readingnotes/Hive%20Programing/DatawareHouseDesign.md)
+- [ DatawareHouseDesign](https://huamingao.github.io/readingnotes/Hive%20Programing/DatawareHouseDesign)
